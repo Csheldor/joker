@@ -1,0 +1,181 @@
+<div class="m-home">
+  <!--页面头部  -->
+  <header>
+    <div>
+        <img src="images/chaobaida.png"/>
+    </div>
+    <div>
+        <i class="yo-ico">&#xe606;</i>
+    </div>
+  </header>
+
+  <!--搜索框-->
+	<section class="search-container">
+		<div class="search-bar">
+		  <a href="javascript:;">
+		    <img src="/joker/images/search1.jpg" alt="">
+		  </a>
+		</div>
+		<section class="search-content">
+			<nav>
+			  <ul class="search-navlist">
+			    <li class="active" action-type="search.switch.tabs">新品</li>
+			    <li action-type="search.switch.tabs">上衣</li>
+			    <li action-type="search.switch.tabs">裙子</li>
+			    <li action-type="search.switch.tabs">裤子</li>
+			    <li action-type="search.switch.tabs">鞋子</li>
+			    <li action-type="search.switch.tabs">包包</li>
+			    <li action-type="search.switch.tabs">配饰</li>
+			  </ul>
+			</nav>
+			<div class="search-prolist">
+        <div class="search-view" spa-widget="scroll">
+          <div class="search-scroll">
+            <div class="search-propic active">
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-1.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-2.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-1.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-2.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+            <div class="search-propic">
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-4.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-5.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-6.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-1.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+
+            <div class="search-propic">
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-4.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-6.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-5.png" alt="">
+                    <p>背心</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-2.png" alt="">
+                    <p>套装</p>
+                  </div>
+                </li>
+                <li>
+                  <div class="search-proshow">
+                    <img src="/joker/images/search-pro-3.png" alt="">
+                    <p>蕾丝</p>
+                  </div>
+                </li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+
+
+
+
+
+        </div>
+
+			</div>
+		</section>
+	</section>
+
+
+
+
+
+</div>

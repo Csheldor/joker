@@ -1,0 +1,40 @@
+<div class="m-details">
+  <header>
+    <i class="yo-ico">&#xe616;</i>
+    <p>布鲁格2016夏季新款淑女裙</p>
+  </header>
+  <nav class="details-nav">
+    <ul>
+      <li class="active">基本信息</li>
+      <li>商品详情</li>
+      <li>
+        <i>评价</i>
+        <span>35028</span>
+      </li>
+    </ul>
+  </nav>
+  <section>section</section>
+  <footer>
+    <ul>
+      <li>
+        <i class="yoico">&#xe60d;</i>
+        <p>客服</p>
+      </li>
+      <li>
+        <i class="yoico">&#xe614;</i>
+        <p>进店</p>
+      </li>
+      <li>
+        <i class="yoico">&#xe612;</i>
+        <p>收藏</p>
+      </li>
+      <li>
+        <p>加入购物车</p>
+      </li>
+      <li>
+        <p>立即购买</p>
+      </li>
+
+    </ul>
+  </footer>
+</div>
