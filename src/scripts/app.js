@@ -10,6 +10,7 @@ require('./views/my.js');
 require('./views/nail.js');
 require('./views/search.js');
 require('./views/home.js');
+require('./views/login.js');
 require('./views/index.js');
 
 //打开app时的默认视图
